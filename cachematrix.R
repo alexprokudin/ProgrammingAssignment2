@@ -19,7 +19,7 @@ makeCacheMatrix <- function(x = matrix()) {
              setInverse = setInverse,
              getInverse = getInverse)
 }
-
+ 
 
 ## The function cacheSolve calculates/retrieves the inverse form of 
 ## a "cacheable matrix" created with the above function. 
